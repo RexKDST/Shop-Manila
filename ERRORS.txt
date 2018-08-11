@@ -1,0 +1,3 @@
+paginate	
+ajax buttons 
+upload image -> sa may update products

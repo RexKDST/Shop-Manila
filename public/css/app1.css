@@ -1,0 +1,36 @@
+.landingPage{
+	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("nena.jpg");
+	background-size: cover;
+}
+#content {
+	text-align: center;
+	padding-top: 12%;
+	max-height: 100%;
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 0.3s;
+}
+h1 {
+	font-family: Lobster;
+	font-weight: bold;
+	font-size: 700%;
+	color: white;
+}
+h3 {
+	font-family: Lobster Two;
+	color: white;
+	font-size: 300%;
+}
+.navbar-default {
+		font-family: Poppins;
+		font-weight: bold;
+}
+.navbar-brand {
+		color: #000 !important;
+}
+.showcase-right>h1 {
+		font-size: 100%;
+		font-family: Poppins;
+}
+.signUp {
+	background: white;
+}
